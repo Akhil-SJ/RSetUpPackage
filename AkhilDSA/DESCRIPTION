@@ -1,0 +1,11 @@
+Package: AkhilDSA
+Type: Package
+Title: tests out R package
+Version: 0.1.0
+Author: Akhil Jonnalagdda
+Maintainer: Akhil Jonnalagdda <akhil@demandsideanalytics>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
